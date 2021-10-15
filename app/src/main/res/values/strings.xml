@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LifeCycle</string>
+    <string name="menu_text_1">Settings</string>
+    <string name="menu_text_2">Save</string>
+    <string name="menu_text_3">Log out</string>
+    <string name="loginButtonName">Log in</string>
+    <string name="title_activity_save">SaveActivity</string>
+    <string name="title_activity_main">SettingsActivity</string>
+    <string name="saveButtonName">Save Changes</string>
+    <string name="cookieSwitchName">Allow cookies</string>
+    <string name="personalizeSwitchName">Personalize</string>
+    <string name="sendSettingsButtonName">Send settings</string>
+    <string name="weatherDataText">Select weather data</string>
+    <string name="weatherData1">Description</string>
+    <string name="weatherData2">Wind speed</string>
+    <string name="weatherData3">Temperature</string>
+    <string name="currentSavedSettings">Current settings</string>
+</resources>
